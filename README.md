@@ -1,13 +1,26 @@
-## 🍫 SweetBite Sales & Distribution Analytics with Power BI
+## 📍 MarketLens – Sales Trends & Insights with Power BI
 
-Explored sales and shipping trends of a fictional chocolate company to understand customer demand, distribution efficiency, and product performance. Built interactive dashboards to highlight KPIs and used forecasting to estimate future growth opportunities.
+Designed a Power BI dashboard for a fictional retail company to explore sales, profit, and discount patterns from 2018–2021. The dashboard highlights customer segments, product categories, and regional performance while enabling interactive analysis with filters and slicers.
 
-🛠 Tools Used: Power BI, Power Query, DAX
+### 🛠 Tools Used: Power BI, Power Query, DAX, Excel
+📊 Key Features:
 
-📦 Transformed raw sales and logistics data into an optimized data model
+KPI Cards: Displayed total Sales (2.3M), Profit (286K), Discounts (1.56K), and Quantity (38K)
 
-📊 Designed dynamic dashboards for monitoring regional demand and product categories
+Profit by Segment: Consumer (~47%) was the top profit driver, followed by Corporate and Home Office
 
-📈 Applied trend analysis and forecasting to anticipate seasonal peaks in chocolate sales
+Sales by Region: West and East regions together contributed over 60% of sales
 
-🚚 Revealed a 10–14% margin improvement opportunity through smarter distribution planning
+Sub-Category Analysis: Phones, Chairs, and Storage emerged as best-selling products
+
+Quarterly Profit Trends: Seasonal spikes in Q4, with a record 38K profit in Q4 2020
+
+Interactive Slicers: Enabled filtering by Year and Quarter for deeper insights
+
+
+### 🔮 Forecasting & Insights:
+
+Applied time-series forecasting to simulate future profit and revenue patterns
+
+Found that focusing on high-margin sub-categories and optimizing regional strategies could uplift annual profitability by 10–15%
+
