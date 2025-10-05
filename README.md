@@ -2,7 +2,7 @@
 
 Designed a Power BI dashboard for a fictional retail company to explore sales, profit, and discount patterns from 2018–2021. The dashboard highlights customer segments, product categories, and regional performance while enabling interactive analysis with filters and slicers.
 
-### 🛠 Tools Used: Power BI, Power Query, DAX, Excel
+### 🛠 Tools Used: Power BI, Power Query, Excel
 📊 Key Features:
 
 KPI Cards: Displayed total Sales (2.3M), Profit (286K), Discounts (1.56K), and Quantity (38K)
