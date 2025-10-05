@@ -25,7 +25,8 @@ Applied time-series forecasting to simulate future profit and revenue patterns
 Found that focusing on high-margin sub-categories and optimizing regional strategies could uplift annual profitability by 10–15%
 
 ### 📊 Dashboard:
-<img width="1205" height="672" alt="image" src="https://github.com/user-attachments/assets/0a1d3daf-3869-4860-a644-8cc12d012dff" />
+<img width="1206" height="673" alt="image" src="https://github.com/user-attachments/assets/2e37492e-4874-44c6-9304-d3f5b45c9975" />
+
 
 
 
